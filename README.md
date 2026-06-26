@@ -2,7 +2,7 @@
 
 Bu proje, Python programlama dili kullanılarak nesne yönelimli programlama mantığına uygun bir şekilde geliştirilmiş dinamik bir **Amiral Battı (Battleship)** oyunudur. Kullanıcıya özel harita boyutu seçimi ve iki farklı stratejik oyun modu sunar.
 
-## 🚀 Öne Çıkan Özellikler
+## Öne Çıkan Özellikler
 
 * **Dinamik Oyun Alanı:** Kullanıcı minimum 10x10 olmak üzere dilediği boyutta bir oyun matrisi oluşturabilir.
 * **Akıllı Gemi Yerleşimi:** Farklı boyutlardaki (1, 2, 3 ve 4 birimlik) gemiler, hem yatay hem de dikey yönlerde haritaya üst üste çakışmayacak şekilde `random` kütüphanesi yardımıyla otomatik yerleştirilir.
@@ -14,7 +14,7 @@ Bu proje, Python programlama dili kullanılarak nesne yönelimli programlama man
   * Daha önce seçilmiş koordinatlara tekrar atış yapıldığında oyuncu uyarılır ve hak kaybı yaşanmaz.
 * **Puanlama Sistemi:** Kalan yanlış yapma hakkı ve yapılan toplam isabetli/isabetsiz atış sayılarına göre oyun sonunda dinamik bir kazanma puanı hesaplanır.
 
-## 🛠️ Nasıl Çalıştırılır?
+##  Nasıl Çalıştırılır?
 
 Projeyi bilgisayarınızda yerel olarak test etmek için aşağıdaki adımları takip edebilirsiniz:
 
